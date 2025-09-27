@@ -1,4 +1,4 @@
-## 🥈 Global Economics 1st Hackathon
+## 🥇 Global Economics 1st Hackathon
 
 **[수상 내역]** 제1회 글로벌경제학과 해커톤 (1위) \
 **[연구]** 주택가격 상승이 가계 소비에 미치는 영향 - 가계 이질성을 중심으로 - \
